@@ -4,8 +4,8 @@
 JAMF_URL="https://YOURJAMFCLOUD.jamfcloud.com"
 CLIENT_ID="XXXXX-xxxxx-xxxxx-xxxxxx"
 CLIENT_SECRET="XXXXX-xxxxx-xxxxx-xxxxxx"
-ROLE_NAME="Test Role 2"
-#This is the privileges required when utilizing OAuth account to connect Jamf Security Cloud and Jamf Pro
+ROLE_NAME="NAME OF THE ROLE HERE"
+#This is the privileges required when utilizing API Client account to connect Jamf Security Cloud and Jamf Pro
 PRIVILEGES=("Read Mac Applications" "Read Mobile Devices" "Read Mobile Device Applications" "Read Smart Mobile Device Groups" "Create Static Mobile Device Groups" "Read Static Mobile Device Groups" "Read Computers" "Read Smart Computer Groups" "Create Static Computer Groups" "Create Computer Extension Attributes" "Read Computer Extension Attributes" "Update Computer Extension Attributes" "Delete Computer Extension Attributes" "Create Mobile Device Extension Attributes" "Read Mobile Device Extension Attributes" "Update Mobile Device Extension Attributes" "Delete Mobile Device Extension Attributes" "Update Mobile Devices" "Update Computers" "Update User")
 
 # ---------- GET BEARER TOKEN USING OAUTH ----------
