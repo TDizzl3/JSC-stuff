@@ -1,1 +1,1 @@
-Looking to help with certain mundane tasks associated with scripting and Jamf Security Cloud/Jamf Protect here. 
+Looking to help with certain mundane tasks associated with scripting and Jamf Security Cloud/Jamf Protect here. Will note that an API admin account is required to run through this workflow since it will be needed to execute tasks against the API.  
